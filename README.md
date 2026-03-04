@@ -43,7 +43,7 @@ El dataset simula un escenario real de evaluación de riesgo crediticio, con inf
 
 | Característica | Detalle |
 |---|---|
-| **Registros totales** | ~800,000 |
+| **Registros totales** | ~500,000 |
 | **Columnas originales** | 13 |
 | **Variable objetivo** | `loan_paid_back` |
 
